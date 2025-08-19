@@ -26,7 +26,7 @@ Este espacio busca mostrar mis avances técnicos, pruebas académicas y la aplic
   Porque estoy motivado por seguir creciendo en el área, aportar con compromiso y aplicar buenas prácticas de seguridad en entornos reales.
 
 - **¿Cómo contactarme?**  
-  📧 Email: joelrios84@email.com  
+  📧 Email: joelrios84@gmail.com  
   🔗 LinkedIn: [linkedin.com/in/joelrios84](https://linkedin.com/in/joelrios84)  
   💻 GitHub: [github.com/joelrios84](https://github.com/joelrios84)
 
