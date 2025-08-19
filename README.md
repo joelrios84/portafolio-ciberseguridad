@@ -1,6 +1,3 @@
-# portafolio-ciberseguridad
-Repositorio personal para mostrar mis avances y habilidades en ciberseguridad.
-
 # Portafolio de Ciberseguridad
 
 Bienvenido a mi portafolio digital, donde presento mis proyectos, aprendizajes y evidencias en el área de **ciberseguridad**.  
