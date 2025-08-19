@@ -50,16 +50,5 @@ Este espacio busca mostrar mis avances técnicos, pruebas académicas y la aplic
 
 ---
 
-## 🌱 Buenas prácticas
-
-En el desarrollo de este portafolio he considerado:
-- Organización clara de carpetas y archivos.  
-- Documentación en cada proyecto para explicar su objetivo.  
-- Uso de un lenguaje sencillo y directo.  
-- Cuidado en la presentación y ortografía.  
-- Actualización constante a medida que avanzo en mi formación.  
-
----
-
 ✍️ *Este portafolio está en constante actualización, reflejando mi progreso en el mundo de la ciberseguridad.*
 
